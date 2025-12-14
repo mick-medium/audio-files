@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Google Sites Audio Player</title>
+    <script src="myusername.github.io" type="text/javascript"></script>
+    <style>
+        body { margin: 0; padding: 0; overflow: hidden; background-color: #f0f0f0; }
+        #player_container { width: 100%; height: 100%; }
+    </style>
+</head>
+<body>
+    <div id="player_container"></div>
+    <script>
+        var player = new Playerjs({
+            id: "player_container",
+            file: "https://docs.google.com/uc?export=download&id=1_PWjcr-zpDh1XRMZV3YlCSSe0N-SXfc-",
+            fullscreen_native: 0,
+            height: 50
+        });
+    </script>
+</body>
+</html>
