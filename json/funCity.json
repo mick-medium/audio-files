@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Fun City",
+        "folder": [
+            {
+                "title": "Middle of Nowhere",
+                "file": "https://mick-medium.github.io/audio-files/wav/madBomber/wav/middleOfNowhere.wav"
+            },
+            {
+                "title": "We are the Bombers",
+                "file": "https://mick-medium.github.io/audio-files/wav/madBomber/wav/weAreTheBombers.wav"
+            },
+            {
+                "title": "Real Cowboy",
+                "file": "https://mick-medium.github.io/audio-files/wav/madBomber/wav/cowboy.wav"
+            },
+            {
+                "title": "Waitin'",
+                "file": "https://mick-medium.github.io/audio-files/wav/madBomber/wav/waitin.wav"
+            },
+            {
+                "title": "I got Myself",
+                "file": "https://mick-medium.github.io/audio-files/wav/madBomber/wav/iGotMyself.wav"
+            },
+            {
+                "title": "Disturbing the Peace",
+                "file": "https://mick-medium.github.io/audio-files/wav/madBomber/wav/mrGreenPeas.wav"
+            }
+        ]
+    }
+]
