@@ -1,0 +1,36 @@
+
+[
+    {
+        "title": "Fun City",
+        "folder": [
+            {
+                "title": "Dodge Dart",
+                "file": "https://mick-medium.github.io/audio-files/wav/juniorHigh/wav/dodgeDart.wav"
+            },
+            {
+                "title": "Hot Rod Man",
+                "file": "https://mick-medium.github.io/audio-files/wav/juniorHigh/wav/hotRodMan.wav"
+            },
+            {
+                "title": "Yes I do",
+                "file": "https://mick-medium.github.io/audio-files/wav/juniorHigh/wav/yesIdo.wav"
+            },
+            {
+                "title": "Skull and Cross Bones",
+                "file": "https://mick-medium.github.io/audio-files/wav/juniorHigh/wav/skullXbones.wav"
+            },
+            {
+                "title": "Rawhide",
+                "file": "https://mick-medium.github.io/audio-files/wav/juniorHigh/wav/rawhide.wav"
+            },
+            {
+                "title": "Big Fat Mumma",
+                "file": "https://mick-medium.github.io/audio-files/wav/juniorHigh/wav/bigFatMumma.wav"
+            },
+            {
+                "title": "Chinatown",
+                "file": "https://mick-medium.github.io/audio-files/wav/juniorHigh/wav/chinatown.wav"
+            }
+        ]
+    }
+]
